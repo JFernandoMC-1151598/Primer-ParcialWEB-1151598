@@ -14,6 +14,8 @@ h1{
 #footer2{
     max-height: 80px;
     min-height: 80px;
+    display: flex;
+    align-items: center;
 }
 h3{
     size: 1.5em - bold;
@@ -22,4 +24,12 @@ h3{
 ul {
     list-style-type: none;
     text-align: left;
+}
+h2{
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#img_main{
+    padding-bottom: 5px;
+    padding-right: 5px;
 }
