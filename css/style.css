@@ -1,0 +1,17 @@
+#header{
+    max-width: 1200px; min-height: 120px; margin: auto;
+}
+#img_head{
+    height: 60px; width: 60px;
+}
+h1{
+    size: 2.5em;
+    text-align: center;
+}
+#aside{
+    min-width: 200px; min-height: 400px;
+}
+#footer2{
+    max-height: 80px;
+    min-height: 80px;
+}
